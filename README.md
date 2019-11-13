@@ -20,8 +20,8 @@ Express, Handlebars, MySQL
  `*burger devouring`
  ![!](https://github.com/maliksaabb/Burger/blob/master/gif/burger.gif)
  
- ### Heroku Link:
-      https://young-dusk-39080.herokuapp.com/
+ ### Heroku Link: https://young-dusk-39080.herokuapp.com/
+
 
 
 
